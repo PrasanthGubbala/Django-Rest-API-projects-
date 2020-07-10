@@ -1,0 +1,20 @@
+{% extends 'common.html' %}
+{% block common %}
+    <table style="width: 1000px; text-align: center" border="1" align="center">
+        <tr>
+            <th>Indian States</th>
+        </tr>
+
+        {% for states in data %}
+            <tr>
+                <th>
+                    <a href="{% url 'districts_data' %}?districts_data={{ states }}">
+                        {{ states }}
+                    </a>
+                </th>
+            </tr>
+        {% endfor %}
+
+    </table>
+
+{% endblock %}

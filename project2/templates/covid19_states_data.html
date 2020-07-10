@@ -1,0 +1,57 @@
+{% extends 'common.html' %}
+{% block common %}
+    {% load static %}
+    <script>
+        document.getElementById("sth").style.display = "none";
+    </script>
+    <style>
+    #table{
+        width: 1000px;
+    }
+    #state{
+        color: blue;
+    }
+    #dist{
+        width: 400px;
+    }
+    #msr{
+        text-align: center;
+    }
+    </style>
+
+<table align="center" id="table" border="1">
+    <tr>
+        <th id="state" colspan="4" style="text-align: center">
+            {{ state_name }}--{{ state.statecode }}
+
+            <a href="{% url 'refresh' %}?state_name={{ state_name }}">
+                <img src="{% static 'images/refresh.png' %}" width="30" height="30">
+            </a>
+
+        </th>
+    </tr>
+    <tr>
+        <th id="dist">District Wise Senses</th>
+        <th id="msr">Active-Cases</th>
+        <th id="msr">Confirmed-Cases</th>
+        <th id="msr">Deceased-Cases</th>
+    </tr>
+
+    {% for k,v in state.districtData.items %}
+        <tr>
+            <th id="dist">{{ k }}</th>
+            <th id="msr">{{ v.active }}</th>
+            <th id="msr">{{ v.confirmed }}</th>
+            <th id="msr">{{ v.deceased }}</th>
+        </tr>
+    {% endfor %}
+    <tr>
+        <th>Total</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+</table>
+
+{% endblock %}
