@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a19d95a7-68ec-47ec-9e46-0112db2187c9" name="Default Changelist" comment="this is the django rest-framework application. there are i did the operations like insertion operation using restframework." />
+    <list default="true" id="a19d95a7-68ec-47ec-9e46-0112db2187c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +12,20 @@
     <session id="2127211112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="37" />
         </counts>
       </usages-collector>
     </session>
@@ -103,13 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1596785104514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this is the django rest-framework application. there are i did the operations like create,read operation using django rest-framework Serializer object.">
+      <created>1596808703189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596808703189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -140,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is the django rest-framework application. there are i did the operations like insertion operation using restframework." />
-    <option name="LAST_COMMIT_MESSAGE" value="this is the django rest-framework application. there are i did the operations like insertion operation using restframework." />
+    <MESSAGE value="this is the django rest-framework application. there are i did the operations like create,read operation using django rest-framework Serializer object." />
+    <option name="LAST_COMMIT_MESSAGE" value="this is the django rest-framework application. there are i did the operations like create,read operation using django rest-framework Serializer object." />
   </component>
 </project>
