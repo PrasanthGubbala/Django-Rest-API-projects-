@@ -1,5 +1,4 @@
 import json
-
 from django.http import HttpResponse
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
@@ -20,15 +19,21 @@ class ProductOperations(View):
         dict_data = JSONParser().parse(strm_data)
         #ProductModel(name=dict_data['name'],quantity=dict_data['quantity'],price=dict_data['price']).save()
         ps = ProductSerializer(data=dict_data)
-        if ps.is_valid():
-            ps.save()
-            message = {'message':'data is saved'}
-        else:
-            message = {'error':ps.errors}
-        json_data = JSONRenderer().render(message)
-        return HttpResponse(json_data,content_type='application/json')
-    # def get(self,request):
-    #     qs = ProductModel.objects.all()
-    #     dict_data = json.loads(qs)
-    #     json_data = json.dumps(dict_data)
-    #     return HttpResponse(json_data,content_type='application/json')
+        try:
+            if ps.is_valid():
+                ps.save()
+                message = {'message': 'data is saved'}
+            else:
+                message = {'error': ps.errors}
+            json_data = JSONRenderer().render(message)
+            return HttpResponse(json_data, content_type='application/json')
+        except:
+            message = {'error':'Invalid Input'}
+            json_data = JSONRenderer().render(message)
+            return HttpResponse(json_data, content_type='application/json')
+
+    def get(self,request):
+        qs = ProductModel.objects.all()
+        ps = ProductSerializer(qs,many=True)
+        json_data = JSONRenderer().render(ps.data)
+        return HttpResponse(json_data, content_type='application/json')

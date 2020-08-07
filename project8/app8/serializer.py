@@ -7,4 +7,7 @@ class ProductSerializer(serializers.Serializer):
     price = serializers.FloatField(min_value=1000.00)
 
     def create(self, validated_data):
-        return ProductModel.objects.create(**validated_data)
+        try:
+            return ProductModel.objects.create(**validated_data)
+        except:
+            raise serializers.ValidationError('Invalid Input')
