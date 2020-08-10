@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4efcd2ba-8f4c-477d-808b-74e467b46764" name="Default Changelist" comment="" />
+    <list default="true" id="4efcd2ba-8f4c-477d-808b-74e467b46764" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/Rentals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources/6e7732ae-5004-41cc-9e8d-b00c4a99ef51.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources/6e7732ae-5004-41cc-9e8d-b00c4a99ef51/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/0002_auto_20200809_1304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/consumer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/provider_signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/register2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/media/provider_photo/100-min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/common.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/provider_login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/provider_registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rentals/templates/provider/provider_home.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +78,7 @@
     <session id="789649690">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -172,7 +209,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="735" />
     <option name="y" value="40" />
     <option name="width" value="1210" />
@@ -277,7 +314,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
