@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4efcd2ba-8f4c-477d-808b-74e467b46764" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/Rentals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources/6e7732ae-5004-41cc-9e8d-b00c4a99ef51.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/dataSources/6e7732ae-5004-41cc-9e8d-b00c4a99ef51/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/Rentals/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/0002_auto_20200809_1304.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/consumer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/provider_signin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/register.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/static/images/register2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/media/provider_photo/100-min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/common.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/provider_login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/templates/main/provider_registration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rentals/templates/provider/provider_home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app11/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app11/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project11/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project11/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,25 +43,32 @@
     </expand>
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="789649690">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="984" />
+          <entry key="py" value="1308" />
           <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="984" />
+          <entry key="Python" value="1308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -111,11 +87,11 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project11/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="1000">
               <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
             </state>
           </provider>
@@ -124,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project11/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="500">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
               </folding>
@@ -136,11 +112,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app11/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="405">
+              <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
-                <marker date="1597047224909" expanded="true" signature="568:607" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app11/serializer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="350">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1597047502588" expanded="true" signature="285:476" ph="..." />
@@ -196,10 +171,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/project11/settings.py" />
-        <option value="$PROJECT_DIR$/project11/urls.py" />
         <option value="$PROJECT_DIR$/app11/models.py" />
-        <option value="$PROJECT_DIR$/app11/views.py" />
         <option value="$PROJECT_DIR$/app11/serializer.py" />
+        <option value="$PROJECT_DIR$/project11/urls.py" />
+        <option value="$PROJECT_DIR$/app11/views.py" />
       </list>
     </option>
   </component>
@@ -245,7 +220,7 @@
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -315,17 +290,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.3286119" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -333,11 +302,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" weight="0.3295302" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,27 +327,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="Class Based Views As APIView" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="das://c15b1e78-749e-4760-b1f6-a2a746048220/schema/main/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project11/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="1000">
           <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project11/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="500">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://c15b1e78-749e-4760-b1f6-a2a746048220/schema/main/table/django_session">
+    <entry file="das://c15b1e78-749e-4760-b1f6-a2a746048220/schema/main/table/app11_productmodel">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app11/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1597047502588" expanded="true" signature="285:476" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -385,31 +379,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app11/serializer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1597047502588" expanded="true" signature="285:476" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c15b1e78-749e-4760-b1f6-a2a746048220/schema/main/table/app11_productmodel">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app11/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="405">
+          <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
-            <marker date="1597047224909" expanded="true" signature="568:607" ph="..." />
           </folding>
         </state>
       </provider>

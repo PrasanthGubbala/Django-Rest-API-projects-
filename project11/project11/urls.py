@@ -21,5 +21,5 @@ from app11 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('apiviews/',views.ApiViews.as_view(),name='apiviews'),
-    path('product/',views.ProductOperations.as_view(),name='product'),
+    path('product/<int:product_no>',views.ProductOperations.as_view(),name='product'),
 ]
