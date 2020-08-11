@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4efcd2ba-8f4c-477d-808b-74e467b46764" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4efcd2ba-8f4c-477d-808b-74e467b46764" name="Default Changelist" comment="CRUD operations using APIView class">
       <change beforePath="$PROJECT_DIR$/app11/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app11/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project11/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project11/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +58,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1308" />
-          <entry key="txt" value="31" />
+          <entry key="py" value="1310" />
+          <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="1308" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Python" value="1310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -112,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app11/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+            <state relative-caret-position="505">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -285,14 +282,20 @@
       <option name="project" value="LOCAL" />
       <updated>1597047662841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CRUD operations using APIView class">
+      <created>1597129894377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597129894377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,7 +327,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class Based Views As APIView" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Based Views As APIView" />
+    <MESSAGE value="CRUD operations using APIView class" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD operations using APIView class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://c15b1e78-749e-4760-b1f6-a2a746048220/schema/main/table/django_session">
@@ -381,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app11/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        <state relative-caret-position="505">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
